@@ -1,0 +1,15 @@
+Online Resources:
+
+https://stackoverflow.com/questions/40584424/simple-android-recyclerview-example recyclerview example
+https://stackoverflow.com/questions/31367599/how-to-update-recyclerview-adapter-data/48959184#48959184 adding and removing items from recyclerlist
+https://stackoverflow.com/questions/24618829/how-to-add-dividers-and-spaces-between-items-in-recyclerview adding borders around the recyclerlist elements
+https://stackoverflow.com/questions/30931889/adding-ripple-effect-to-recyclerview-item/49704439#49704439 highlighting element on click in recyclerlist
+https://developer.android.com/guide/topics/ui/notifiers/toasts#java toasts example
+https://stackoverflow.com/questions/5944987/how-to-create-a-popup-window-popupwindow-in-android creating a popup window
+https://www.geeksforgeeks.org/android-creating-multiple-screen-app/ creating a multi-screen app
+https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.LayoutManager layout manager
+https://stackoverflow.com/questions/22853775/how-do-you-bubble-sort-largest-to-smallest greatest to least bubble sort
+https://stackoverflow.com/questions/6536094/java-arraylist-copy duplicating arraylists
+https://stackoverflow.com/questions/2091465/how-do-i-pass-data-between-activities-in-android-application passing data between activities
+https://stackoverflow.com/questions/13601883/how-to-pass-arraylist-of-objects-from-one-to-another-activity-using-intent-in-an passing arraylists through activities
+http://android-er.blogspot.com/2014/01/creat-background-of-popup-window-with.html adding border to windows 
