@@ -1,6 +1,6 @@
 ## Dictionary by Ayman Taleb 11/19/2021 for EECS 40 at UCI
 
-All files needed are in the zip provided. 
+All files needed are in the directories provided. 
 All the online resources I used are listed in the statement.txt file
 
 
